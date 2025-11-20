@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Web3 Swap Hub";
+export const description = "A friendly, sleek web3 swap interface for everyone.";
 export const url = process.env.NEXT_PUBLIC_URL;
